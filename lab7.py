@@ -17,9 +17,9 @@ def divide(x, y):
 def power(x, y):
     return x ** y
 
-# Пример использования
+# Пример испольования
 if __name__ == "__main__":
-    print("Addition:", add(5, 3))
+    print("Addition:", add(8, 9))
     print("Subtraction:", subtract(10, 4))
     print("Multiplication:", multiply(7, 2))
     print("Division:", divide(15, 3))
