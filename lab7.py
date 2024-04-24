@@ -19,7 +19,7 @@ def power(x, y):
 
 # Пример испольования
 if __name__ == "__main__":
-    print("Addition:", add(8, 9))
+    print("Addition:", add(8, 9)
     print("Subtraction:", subtract(10, 4))
     print("Multiplication:", multiply(7, 2))
     print("Division:", divide(15, 3))
